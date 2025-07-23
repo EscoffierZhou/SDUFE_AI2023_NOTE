@@ -1,0 +1,21 @@
+# ninja log v6
+5	330	7666505984548838	CMakeFiles/BankManagementSystem.dir/main.cpp.obj	e4f7f4f84f6ad9e6
+65	503	7666499558395407	CMakeFiles/BankManagementSystem.dir/utils.cpp.obj	58e598543de8357f
+30	575	7666499558055461	CMakeFiles/BankManagementSystem.dir/queue.cpp.obj	3adf89befde546ce
+55	503	7666499558299437	CMakeFiles/BankManagementSystem.dir/category.cpp.obj	25a98d8ee444fb2d
+9	504	7666499557846103	CMakeFiles/BankManagementSystem.dir/employee.cpp.obj	aa6151e8fcc45fbc
+16	555	7666499557909790	CMakeFiles/BankManagementSystem.dir/customer.cpp.obj	4e4b23f41c7c2b1a
+22	598	7666499557979344	CMakeFiles/BankManagementSystem.dir/transaction.cpp.obj	17eb70ee3557c757
+47	610	7666499558218031	CMakeFiles/BankManagementSystem.dir/file.cpp.obj	4b854131b34171f
+3	494	7666506763693219	CMakeFiles/BankManagementSystem.dir/branch.cpp.obj	a9d0b639553af60c
+494	653	7666506768585363	BankManagementSystem.exe	a4d68ee89b0b7254
+20	598	7669978431948258	CMakeFiles/BankManagementSystem.dir/customer.cpp.obj	4fb08f1df2958030
+7	599	7669978431811748	CMakeFiles/BankManagementSystem.dir/main.cpp.obj	33abbd5a16a065f1
+78	600	7669978432521018	CMakeFiles/BankManagementSystem.dir/category.cpp.obj	683167f145e62efa
+15	610	7669978431893104	CMakeFiles/BankManagementSystem.dir/employee.cpp.obj	c1a3ab63e3440b20
+53	610	7669978432270657	CMakeFiles/BankManagementSystem.dir/queue.cpp.obj	f9aaa549e60377a4
+87	685	7669978432618445	CMakeFiles/BankManagementSystem.dir/utils.cpp.obj	19c2391ab202063b
+46	687	7669978432200380	CMakeFiles/BankManagementSystem.dir/transaction.cpp.obj	7d9c74ef4e863ede
+70	688	7669978432448645	CMakeFiles/BankManagementSystem.dir/file.cpp.obj	c354c62f52e4e814
+62	766	7669978432364647	CMakeFiles/BankManagementSystem.dir/branch.cpp.obj	a4d1b4f8f1b39fda
+766	1080	7669978439404083	BankManagementSystem.exe	a4d68ee89b0b7254
