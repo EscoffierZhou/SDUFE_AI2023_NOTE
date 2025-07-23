@@ -1,0 +1,109 @@
+1、以每行5个数来输出300以内能被7或17整除的偶数，并求出
+      其和。
+2、对任意输入的 x，用下式计算并输出 y 的值。
+            5      x<10
+      y=    0      x=10
+           -5      x>10
+
+int fun(int n)
+{
+ 
+  /**********Program**********/
+
+
+
+
+
+  /**********  End  **********/
+  
+}
+
+void main ()
+{
+    int  x,y;
+    printf("enter x:");
+    scanf("%d",&x);
+    y=fun(x);
+    printf("x=%d,y=%d\n",x,y);
+   
+}
+3、求k！（k〈13），所求阶乘的值作为函数值返回。
+     （要求使用递归）
+
+ long fun(int k)
+{
+  /**********Program**********/
+  
+  
+  
+  
+  
+  
+  /**********  End  **********/
+  
+}
+main()   
+{
+  int m;
+  printf("Enter m: ");
+  scanf("%d", &m);
+  printf("\nThe result is %ld\n", fun(m));
+ 
+}
+4、编写函数fun，求任一整数m的n次方。
+
+
+long fun(int m,int n)
+{
+  /**********Program**********/
+  
+  
+  
+  
+  
+  
+  /**********  End  **********/
+}
+
+main()
+{ 
+  int m,n;
+  long  s;
+  long fun(int,int);
+  printf("输入m和n的值:");
+  scanf("%d,%d",&m,&n);
+  s=fun(m,n);
+  printf("s=%ld\n",s);
+ 
+}
+5、功能：求一批数中最大值和最小值的差。
+
+------------------------------------------------*/
+
+
+int max_min(int a[],int n)
+{
+  /**********Program**********/
+  
+  
+  
+  
+  
+  
+  /**********  End  **********/
+}
+main()
+{
+  int a[N],i,k;
+  for(i=0;i<N;i++)
+    a[i]=random(51)+10;
+  for(i=0;i<N;i++)
+  {
+    printf("%5d",a[i]);
+    if((i+1)%5==0) printf("\n");
+  }
+  k=max_min(a,N);
+  printf("the result is:%d\n",k);
+  
+}
+6、
