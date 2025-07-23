@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\desktop\\\u671F\u672B\u590D\u4E60\u7528\\\u5927\u4E00\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C\u4EE3\u7801\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78017 \u67E5\u627E(\u57FA\u672C)\\\u57FA\u672C\u67E5\u627E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{571DA1F4-AA2F-4055-8339-CB3EDF73BB5A}|\u57FA\u672C\u67E5\u627E.vcxproj|F:\\desktop\\\u671F\u672B\u590D\u4E60\u7528\\\u5927\u4E00\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C\u4EE3\u7801\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78017 \u67E5\u627E(\u57FA\u672C)\\\u57FA\u672C\u67E5\u627E\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{571DA1F4-AA2F-4055-8339-CB3EDF73BB5A}|\u57FA\u672C\u67E5\u627E.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "F:\\desktop\\\u671F\u672B\u590D\u4E60\u7528\\\u5927\u4E00\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C\u4EE3\u7801\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78017 \u67E5\u627E(\u57FA\u672C)\\\u57FA\u672C\u67E5\u627E\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "F:\\desktop\\\u671F\u672B\u590D\u4E60\u7528\\\u5927\u4E00\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C\u4EE3\u7801\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78017 \u67E5\u627E(\u57FA\u672C)\\\u57FA\u672C\u67E5\u627E\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T13:30:14.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

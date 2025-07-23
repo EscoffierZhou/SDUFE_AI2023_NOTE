@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+H:\desktop\notes\cpp\课堂示例代码1.1（线性表的定义和应用）\FileName.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+H:\desktop\notes\cpp\课堂示例代码1.1（线性表的定义和应用）\FileName.cpp(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  H:\desktop\notes\cpp\课堂示例代码1.1（线性表的定义和应用）\FileName.cpp(1,1):
+  之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  课堂示例代码1（数据结构）.vcxproj -> H:\desktop\notes\cpp\课堂示例代码1.1（线性表的定义和应用）\x64\Debug\1.1线性表的定义和运用.exe

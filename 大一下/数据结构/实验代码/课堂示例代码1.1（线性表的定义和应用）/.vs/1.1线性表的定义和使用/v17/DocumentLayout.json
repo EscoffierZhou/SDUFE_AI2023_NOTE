@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78011.1\uFF08\u7EBF\u6027\u8868\u7684\u5B9A\u4E49\u548C\u5E94\u7528\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6B3C3E-A8CC-4B75-83AA-CC6A3F68B58E}|\u8BFE\u5802\u793A\u4F8B\u4EE3\u78011\uFF08\u6570\u636E\u7ED3\u6784\uFF09.vcxproj|F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78011.1\uFF08\u7EBF\u6027\u8868\u7684\u5B9A\u4E49\u548C\u5E94\u7528\uFF09\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C6B3C3E-A8CC-4B75-83AA-CC6A3F68B58E}|\u8BFE\u5802\u793A\u4F8B\u4EE3\u78011\uFF08\u6570\u636E\u7ED3\u6784\uFF09.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78011.1\uFF08\u7EBF\u6027\u8868\u7684\u5B9A\u4E49\u548C\u5E94\u7528\uFF09\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78011.1\uFF08\u7EBF\u6027\u8868\u7684\u5B9A\u4E49\u548C\u5E94\u7528\uFF09\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAowDkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T00:13:39.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

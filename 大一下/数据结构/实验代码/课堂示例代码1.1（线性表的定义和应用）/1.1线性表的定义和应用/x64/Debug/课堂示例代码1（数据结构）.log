@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+H:\desktop\notes\cpp\课堂示例代码1（数据结构）\FileName.cpp(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  H:\desktop\notes\cpp\课堂示例代码1（数据结构）\FileName.cpp(1,1):
+  之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  课堂示例代码1（数据结构）.vcxproj -> H:\desktop\notes\cpp\课堂示例代码1（数据结构）\x64\Debug\课堂示例代码1（数据结构）.exe

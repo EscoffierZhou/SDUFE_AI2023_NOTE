@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78013.1\uFF08\u4E32\u8868\u793A\u548C\u5B9E\u73B0\uFF09\\3.1 \u4E32\uFF0C\u5B57\u7B26\u4E32\u548C\u5E7F\u4E49\u8868\u8868\u793A\u548C\u5B9E\u73B0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0628A14C-8528-4A2A-A749-FB233858109E}|3.1 \u4E32\uFF0C\u5B57\u7B26\u4E32\u548C\u5E7F\u4E49\u8868\u8868\u793A\u548C\u5B9E\u73B0.vcxproj|F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78013.1\uFF08\u4E32\u8868\u793A\u548C\u5B9E\u73B0\uFF09\\3.1 \u4E32\uFF0C\u5B57\u7B26\u4E32\u548C\u5E7F\u4E49\u8868\u8868\u793A\u548C\u5B9E\u73B0\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0628A14C-8528-4A2A-A749-FB233858109E}|3.1 \u4E32\uFF0C\u5B57\u7B26\u4E32\u548C\u5E7F\u4E49\u8868\u8868\u793A\u548C\u5B9E\u73B0.vcxproj|solutionrelative:\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78013.1\uFF08\u4E32\u8868\u793A\u548C\u5B9E\u73B0\uFF09\\3.1 \u4E32\uFF0C\u5B57\u7B26\u4E32\u548C\u5E7F\u4E49\u8868\u8868\u793A\u548C\u5B9E\u73B0\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6E90.cpp",
+              "ToolTip": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78013.1\uFF08\u4E32\u8868\u793A\u548C\u5B9E\u73B0\uFF09\\3.1 \u4E32\uFF0C\u5B57\u7B26\u4E32\u548C\u5E7F\u4E49\u8868\u8868\u793A\u548C\u5B9E\u73B0\\\u6E90.cpp",
+              "RelativeToolTip": "\u6E90.cpp",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAswJkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T13:52:51.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

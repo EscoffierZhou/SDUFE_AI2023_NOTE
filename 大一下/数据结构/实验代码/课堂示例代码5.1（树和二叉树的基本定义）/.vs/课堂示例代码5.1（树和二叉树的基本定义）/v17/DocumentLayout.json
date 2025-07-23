@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78015.1\uFF08\u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78015.1\uFF08\u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\uFF09\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78015.1\uFF08\u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\uFF09\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78015.1\uFF08\u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\uFF09\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\\u6E90.cpp",
+              "ToolTip": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78015.1\uFF08\u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\uFF09\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\\u6E90.cpp",
+              "RelativeToolTip": "5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\\u6E90.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T00:10:42.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49.md",
+              "DocumentMoniker": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78015.1\uFF08\u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\uFF09\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49.md",
+              "RelativeDocumentMoniker": "5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49.md",
+              "ToolTip": "F:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78015.1\uFF08\u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\uFF09\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49.md",
+              "RelativeToolTip": "5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49\\5.1 \u6811\u548C\u4E8C\u53C9\u6811\u7684\u57FA\u672C\u5B9A\u4E49.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-13T00:05:13.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

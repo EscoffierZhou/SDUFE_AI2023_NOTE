@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78012.1.1\u4F5C\u4E1A\uFF08\u5341\u8FDB\u5236\u8F6C\u516B\u8FDB\u5236\uFF09\\DFS\u0026BFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{310B649B-5B79-4A9F-ADF3-3822F8102FFA}|DFS\u0026BFS.vcxproj|H:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78012.1.1\u4F5C\u4E1A\uFF08\u5341\u8FDB\u5236\u8F6C\u516B\u8FDB\u5236\uFF09\\DFS\u0026BFS\\DFS\u0026BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310B649B-5B79-4A9F-ADF3-3822F8102FFA}|DFS\u0026BFS.vcxproj|solutionrelative:DFS\u0026BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DFS\u0026BFS.cpp",
+              "DocumentMoniker": "H:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78012.1.1\u4F5C\u4E1A\uFF08\u5341\u8FDB\u5236\u8F6C\u516B\u8FDB\u5236\uFF09\\DFS\u0026BFS\\DFS\u0026BFS.cpp",
+              "RelativeDocumentMoniker": "DFS\u0026BFS.cpp",
+              "ToolTip": "H:\\desktop\\notes\\cpp\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78012.1.1\u4F5C\u4E1A\uFF08\u5341\u8FDB\u5236\u8F6C\u516B\u8FDB\u5236\uFF09\\DFS\u0026BFS\\DFS\u0026BFS.cpp",
+              "RelativeToolTip": "DFS\u0026BFS.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T06:37:24.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

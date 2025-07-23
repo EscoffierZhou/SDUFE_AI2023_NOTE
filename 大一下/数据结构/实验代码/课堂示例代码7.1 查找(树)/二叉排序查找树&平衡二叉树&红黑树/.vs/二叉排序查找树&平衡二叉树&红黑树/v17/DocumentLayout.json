@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\desktop\\\u671F\u672B\u590D\u4E60\u7528\\\u5927\u4E00\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C\u4EE3\u7801\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78017.1 \u67E5\u627E(\u6811)\\\u4E8C\u53C9\u6392\u5E8F\u67E5\u627E\u6811\u0026\u5E73\u8861\u4E8C\u53C9\u6811\u0026\u7EA2\u9ED1\u6811\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E11410-DC4F-4148-ACB8-19C2D41C7826}|\u4E8C\u53C9\u6392\u5E8F\u67E5\u627E\u6811\u0026\u5E73\u8861\u4E8C\u53C9\u6811\u0026\u7EA2\u9ED1\u6811.vcxproj|F:\\desktop\\\u671F\u672B\u590D\u4E60\u7528\\\u5927\u4E00\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C\u4EE3\u7801\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78017.1 \u67E5\u627E(\u6811)\\\u4E8C\u53C9\u6392\u5E8F\u67E5\u627E\u6811\u0026\u5E73\u8861\u4E8C\u53C9\u6811\u0026\u7EA2\u9ED1\u6811\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0E11410-DC4F-4148-ACB8-19C2D41C7826}|\u4E8C\u53C9\u6392\u5E8F\u67E5\u627E\u6811\u0026\u5E73\u8861\u4E8C\u53C9\u6811\u0026\u7EA2\u9ED1\u6811.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "F:\\desktop\\\u671F\u672B\u590D\u4E60\u7528\\\u5927\u4E00\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C\u4EE3\u7801\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78017.1 \u67E5\u627E(\u6811)\\\u4E8C\u53C9\u6392\u5E8F\u67E5\u627E\u6811\u0026\u5E73\u8861\u4E8C\u53C9\u6811\u0026\u7EA2\u9ED1\u6811\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "F:\\desktop\\\u671F\u672B\u590D\u4E60\u7528\\\u5927\u4E00\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C\u4EE3\u7801\\\u8BFE\u5802\u793A\u4F8B\u4EE3\u78017.1 \u67E5\u627E(\u6811)\\\u4E8C\u53C9\u6392\u5E8F\u67E5\u627E\u6811\u0026\u5E73\u8861\u4E8C\u53C9\u6811\u0026\u7EA2\u9ED1\u6811\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAowEwBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T14:00:47.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(14,3): error C2040: “connection_graph”:“connection_graph *”与“connection_graph”的间接寻址级别不同
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(199,5): error C3861: “addEdge”: 找不到标识符
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(200,5): error C3861: “addEdge”: 找不到标识符
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(201,5): error C3861: “addEdge”: 找不到标识符
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(202,5): error C3861: “addEdge”: 找不到标识符
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(203,5): error C3861: “addEdge”: 找不到标识符
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(204,5): error C3861: “addEdge”: 找不到标识符
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(205,5): error C3861: “addEdge”: 找不到标识符
+F:\desktop\notes\cpp\图\有向无向图的操作\FileName.cpp(206,5): error C3861: “addEdge”: 找不到标识符
